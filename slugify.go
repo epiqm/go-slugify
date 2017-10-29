@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/mozillazg/go-unidecode"
+	"github.com/epiqm/go-unidecode"
 )
 
 // Separator separator between words
